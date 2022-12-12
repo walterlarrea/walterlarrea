@@ -10,7 +10,8 @@ https://walterlarrea.github.io/eMercado/
 #### At fullstackopen.com, recognized by University of Helsinki, Finnland.
 https://phonebook-react.up.railway.app/
 -->
-### Contact information
+
+## Contact information
 
 📬 walterlarrea@live.com
 
