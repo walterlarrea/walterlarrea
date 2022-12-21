@@ -2,7 +2,7 @@
 
 
 
-## Here i'll post personal & educational projects
+## Here i will post personal & educational projects
 
 ### - 🛍️ eCommerce front-end ( JavaScript, Bootstrap, HTML )
 #### At Ceibal, Jóvenes a programar. Web development.
