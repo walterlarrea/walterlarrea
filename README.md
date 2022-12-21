@@ -1,4 +1,4 @@
-## 👋 Hi there, I am Walter Larrea
+## 👋 Hi there, I am Walter
 
 
 
