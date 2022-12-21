@@ -1,10 +1,5 @@
 ## 👋 Hi there, I am Walter Larrea
 
-## This are my e-mail and Linkedin profile
-
-📬 walterlarrea@live.com
-
-☑️ https://www.linkedin.com/in/walter-larrea/
 
 
 ## Here i'll post personal & educational projects
@@ -12,6 +7,14 @@
 ### - 🛍️ eCommerce front-end ( JavaScript, Bootstrap, HTML )
 #### At Ceibal, Jóvenes a programar. Web development.
 https://walterlarrea.github.io/eMercado/
+
+
+
+## And these are my e-mail and Linkedin profile
+
+📬 walterlarrea@live.com
+
+☑️ https://www.linkedin.com/in/walter-larrea/
 
 
 <!--
