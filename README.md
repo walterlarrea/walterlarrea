@@ -2,7 +2,7 @@
 
 ## Here i will be posting some projects
 
-### - 🛍️ eCommerce front-end ( JavaScript, Bootstrap, HTML )
+### - eCommerce front-end ( JavaScript, Bootstrap, HTML ) 🛍️
 #### At Ceibal, Jóvenes a programar. Web development.
 https://walterlarrea.github.io/eMercado/
 
