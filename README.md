@@ -1,16 +1,12 @@
-## 👋 Hi there, I am Walter
+## Hi there, I'm Walter 👋
 
-
-
-## Here i will post personal & educational projects
+## Here i will post some projects
 
 ### - 🛍️ eCommerce front-end ( JavaScript, Bootstrap, HTML )
 #### At Ceibal, Jóvenes a programar. Web development.
 https://walterlarrea.github.io/eMercado/
 
-
-
-## And these are my e-mail and Linkedin profile
+## And these are my e-mail, and Linkedin profile
 
 📬 walterlarrea@live.com
 
