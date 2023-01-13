@@ -1,6 +1,6 @@
 ## Hi there, I'm Walter 👋
 
-## Here i will post some projects
+## Here i will be posting some projects
 
 ### - 🛍️ eCommerce front-end ( JavaScript, Bootstrap, HTML )
 #### At Ceibal, Jóvenes a programar. Web development.
