@@ -3,8 +3,9 @@
 ## Here i will be posting some projects
 
 ### - eCommerce front-end ( JavaScript, Bootstrap, HTML ) 🛍️
-    #### At Ceibal, Jóvenes a programar. Web development.
-    https://walterlarrea.github.io/eMercado/
+#### At Ceibal, Jóvenes a programar. Web development.
+https://walterlarrea.github.io/eMercado/
+
 
 ## And these are my e-mail, and Linkedin profile
 
