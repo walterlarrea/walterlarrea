@@ -1,14 +1,14 @@
 ## Hi there, I'm Walter 👋. Here i will be posting some projects.
 
+
+### - Projects presentation ( React, Styled Components, Express ) 📁
+#### Personal, looking forward to display individual components and link future projects.
+[Try Projects presentation](https://public-work-portfolio-backend-production.up.railway.app/ "Personal portfolio")
+
+
 ### - eCommerce front-end ( JavaScript, Bootstrap, HTML ) 🛍️
 #### At Ceibal, Jóvenes a programar. Web development.
-https://walterlarrea.github.io/eMercado/
-
-
-### - Projects presentation ( React, Styled Components, Express )
-#### Personal, looking forward to display individual components and link future projects.
-https://public-work-portfolio-backend-production.up.railway.app/
-
+[Try eMercado](https://walterlarrea.github.io/eMercado/ "Dummy ecommerce")
 
 
 ## And these are my e-mail, and Linkedin profile
