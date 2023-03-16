@@ -1,7 +1,7 @@
 ## Hi there, I'm Walter 👋. Here i will be posting some projects.
 
 
-### - Projects presentation ( React, Styled Components, Express ) 📁
+### - Projects presentation (Portfolio) ( React & CSS Styled Components, Express ) 📁
 #### Personal, looking forward to display individual components and link future projects.
 [Try Projects presentation](https://walterlarrea-portfolio.up.railway.app/ "Personal portfolio")
 
