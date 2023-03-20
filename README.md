@@ -12,14 +12,14 @@ I am a developer focused on fullstack web-apps.
 *   📬  My e-mail: walterlarrea@live.com
 
 
-### Projects presentation / Portfolio ( React & CSS Styled Components, Express ) 📁
-[Try Projects presentation](https://walterlarrea-portfolio.up.railway.app/ "Portfolio")
+### Portfolio / Projects presentation ( React & CSS Styled Components, Express ) 📁
+[Try my portfolio](https://walterlarrea.vercel.app/ "Portfolio")
 
 ### eCommerce front-end only ( JavaScript, Bootstrap, HTML ) 🛍️
 [Try eMercado](https://walterlarrea.github.io/eMercado/ "eCommerce frontend")
 
-
 ### Skills
+------------------------------------
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
