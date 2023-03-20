@@ -18,8 +18,8 @@ I am a developer focused on fullstack web-apps.
 ### eCommerce front-end only ( JavaScript, Bootstrap, HTML ) 🛍️
 [Try eMercado](https://walterlarrea.github.io/eMercado/ "eCommerce frontend")
 
-### Skills
 ------------------------------------
+### Skills
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
