@@ -6,7 +6,7 @@ I am a developer focused on fullstack web-apps.
 
 
 *   🌍  I'm from Uruguay
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://walterlarrea-portfolio.up.railway.app/'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://walterlarrea.vercel.app/'>Portfolio</a>
 *   🧠  Currently learning the Web stack & React, with strong bases on C, Java & vb.NET.
 *   🤝  I'm looking to collaborate on interesting projects as a developer
 *   📬  My e-mail: walterlarrea@live.com
