@@ -15,6 +15,9 @@ I am a developer focused on fullstack web-apps.
 ### Portfolio / Projects presentation ( React & CSS Styled Components, Express ) 📁
 [Try my portfolio](https://walterlarrea.vercel.app/ "Portfolio")
 
+### Music app, meant for users 70+ years ( React.js + Next.js, Tailwind Css, Spotify API & Spotify Web Player SDK ) 🎧
+[Try Sonoro](https://sonoro2.vercel.app/ "Sonoro music App")
+
 ### eCommerce front-end only ( JavaScript, Bootstrap, HTML ) 🛍️
 [Try eMercado](https://walterlarrea.github.io/eMercado/ "eCommerce frontend")
 
