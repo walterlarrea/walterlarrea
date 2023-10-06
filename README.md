@@ -14,7 +14,7 @@ I am a developer focused on fullstack web-apps.
 
 ### Portfolio / Projects presentation ( React & CSS Styled Components, Express ) 📁
 
-[Try my portfolio](https://walterlarrea.vercel.app/ "Portfolio")
+[Check my portfolio](https://walterlarrea.vercel.app/ "Portfolio")
 
 ### Music app, meant for users 70+ years ( React.js + Next.js, Tailwind Css, Spotify API & Web Player SDK ) 🎧
 
