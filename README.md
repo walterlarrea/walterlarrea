@@ -6,22 +6,24 @@ I am a developer focused on fullstack web-apps.
 
 
 *   🌍  I'm from Uruguay
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://walterlarrea.vercel.app/'>Portfolio</a>
+*   🖥️  Checkout my <a target="_blank" rel="noreferrer" href='https://walterlarrea.vercel.app/'>Portfolio</a>
 *   🧠  Currently learning the Web stack & React, with strong bases on C, Java & vb.NET.
 *   🤝  I'm looking to collaborate on interesting projects as a developer
-*   📬  My e-mail: walterlarrea@live.com
+*   📬  My e-mail: walterelarrea@gmail.com
 
 
 ### Portfolio / Projects presentation ( React & CSS Styled Components, Express ) 📁
-[Check my portfolio](https://walterlarrea.vercel.app/ "Portfolio")
+[Check my portfolio](https://walterlarrea.vercel.app/ "Personal portfolio")
 
+### Made for practicing purposes, as part of the journey to learn React & RESTful APIs
+[Try my Blogs app](https://bloglist-app-frontend.vercel.app/ "Bloglist app")
 
 ### Music app, meant for users 70+ years ( React.js + Next.js, Tailwind Css, Spotify API & Web Player SDK ) 🎧
-[Try Sonoro](https://sonoro2.vercel.app/ "Sonoro music App")
+[Try Sonoro](https://sonoro2.vercel.app/ "Sonoro music app")
 
 
-### eCommerce front-end only ( JavaScript, Bootstrap, HTML ) 🛍️
-[Try eMercado](https://walterlarrea.github.io/eMercado/ "eCommerce frontend")
+### eCommerce front-end mock ( JavaScript, Bootstrap, HTML ) 🛍️
+[Try eMercado](https://walterlarrea.github.io/eMercado/ "eCommerce frontend mock")
 
 
 ------------------------------------
