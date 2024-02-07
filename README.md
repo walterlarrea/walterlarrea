@@ -12,11 +12,11 @@ I am a developer focused on fullstack web-apps.
 *   📬  My e-mail: walterelarrea@gmail.com
 
 
-### Made for practicing purposes, as part of the journey to learn React & RESTful APIs
-[Try my Blogs app](https://bloglist-app-frontend.vercel.app/ "Bloglist app")
-
 ### Music app, meant for users 70+ years ( React.js + Next.js, Tailwind Css, Spotify API & Web Player SDK ) 🎧
 [Try Sonoro](https://sonoro2.vercel.app/ "Sonoro music app")
+
+### Made for practicing purposes, as part of the journey to learn React & RESTful APIs
+[Try my Blogs app](https://bloglist-app-frontend.vercel.app/ "Bloglist app")
 
 ### eCommerce front-end mock ( JavaScript, Bootstrap, HTML ) 🛍️
 [Try eMercado](https://walterlarrea.github.io/eMercado/ "eCommerce frontend mock")
@@ -34,19 +34,3 @@ I am a developer focused on fullstack web-apps.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/walterlarrea" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/walter-larrea" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/walterlarrea"><img src="https://github-readme-stats.vercel.app/api?username=walterlarrea&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="walterlarrea's GitHub stats" /></a>
-
-<a href="http://www.github.com/walterlarrea"><img src="https://github-readme-streak-stats.herokuapp.com/?user=walterlarrea&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/walterlarrea/messaging-app-rest-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=walterlarrea&repo=messaging-app-rest-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/walterlarrea/messaging-app-ui" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=walterlarrea&repo=messaging-app-ui&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br />
-
-<div width="100%" align="center"><a href="https://github.com/walterlarrea/sonoro2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=walterlarrea&repo=sonoro2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/walterlarrea/full-stack-open_web-development" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=walterlarrea&repo=full-stack-open_web-development&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
